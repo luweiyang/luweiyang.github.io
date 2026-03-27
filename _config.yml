@@ -1,12 +1,12 @@
 # Basic Information 
 title: Luwei Yang
-position: Postdoctoral Researcher
-affiliation: Australian National University
+# position: Postdoctoral Researcher
+# affiliation: Australian National University
 email: luwei.yang@anu.edu.au
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: luwei yang, luweiy, yang luwei, luweiyang, yangluwei
+keywords: luwei yang, luweiy, yang luwei, luweiyang, yangluwei, luwei yang ocean
 description: Luwei Yang is a Postdoc Researcher in Physical Oceanography at the Australian National University. 
 canonical: https://earthsciences.anu.edu.au/people/dr-luwei-yang
 
@@ -14,7 +14,7 @@ canonical: https://earthsciences.anu.edu.au/people/dr-luwei-yang
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=ralcabcAAAAJ&hl=en
 cv_link: assets/files/CV_YANG_December_2025.pdf
-github_link: https://github.com/luweiyang
+# github_link: https://github.com/luweiyang
 linkedin: https://www.linkedin.com/in/luwei-yang-004024a9/
 
 # Images (e.g., your profile picture and your website's favicon) 
