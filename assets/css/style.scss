@@ -2,3 +2,22 @@
 ---
 
 @import "minimal-light";
+
+/* ===== Custom overrides ===== */
+
+/* Adjust spacing for h2 headers (## in Markdown) */
+h2 {
+  margin-top: 40px;    /* space above header */
+  margin-bottom: 20px; /* space below header */
+}
+
+/* Adjust spacing for h3 headers if used */
+h3 {
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+/* Add extra space after sections */
+section {
+  margin-bottom: 50px;
+}
