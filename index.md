@@ -29,5 +29,5 @@ Angeles, California, United States.
 <li> <b>L. Yang</b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan<sup>*</sup>. Lee waves break eddy saturation of the Antarctic Circumpolar Current. <i>Geophysical Research Letters</i>, <b>2023</b>.</li>
 <li> R. Barkan, K. Srinivasan, <b>L. Yang</b>, J. C. McWilliams, J. Gula, & C. Vic. Oceanic mesoscale eddy depletion catalyzed by internal waves. <i>Geophysical Research Letters</i>, <b>2021</b>.</li>
 <li> <b>L. Yang<sup>*</sup></b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. The impact of lee waves on the Southern Ocean circulation. <i>Journal of Physical Oceanography</i>, <b>2021</b>.</li>
-<li> <b>L. Yang<sup>*</sup></b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. Energy loss from transient eddies due to lee wave generation in the Southern Ocean. <i>Journal of Physical Oceanography</i>, <b>2018</b>. <a href="https://doi.org/10.1175/JPO-D-18-0077.1" target="_blank">doi</a></li>
+<li> <b>L. Yang<sup>*</sup></b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. Energy loss from transient eddies due to lee wave generation in the Southern Ocean. <i>Journal of Physical Oceanography</i>, <b>2018</b>. <a href="https://doi.org/10.1175/JPO-D-18-0077.1" target="_blank">[doi]</a></li>
 </ol>
