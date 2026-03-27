@@ -38,4 +38,4 @@ Angeles, California, United States.
 
 * **L. Yang<sup>*</sup>**, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. The impact of lee waves on the Southern Ocean circulation. *Journal of Physical Oceanography*, **2021**.
 
-* **L. Yang<sup>*</sup>**, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. Energy loss from transient eddies due to lee wave generation in the Southern Ocean. *Journal of Physical Oceanography*, **2018**.
+* <b>L. Yang<sup>*</sup></b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. Energy loss from transient eddies due to lee wave generation in the Southern Ocean. <i>Journal of Physical Oceanography<i>, <b>2018</b>.
