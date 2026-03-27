@@ -16,13 +16,13 @@ University, Canberra, ACT, Australia.
 Angeles, California, United States.
 
 ## Publications
-#### Submitted
+### Submitted
 <ol reversed start="8">
 <li> <b>L. Yang<sup>*</sup></b>, C.J. Shakespeare, B.K. Arbic: Propagating internal-tide-induced wave stresses resolve discrepancies in ocean tide energetics. Submitted.</li>
 <li> <b>L. Yang<sup>*</sup></b>, C. J. Shakespeare, A. K. Morrison, A. M. Hogg, A. H. Gibson, and B. K. Arbic. Improving M2 barotropic tide solutions: sensitivity to model resolution and nonlinear wave dynamics. <i>Journal of Advances in Modeling Earth Systems</i>, under review.</li>
 </ol>
 
-#### Published
+### Published
 <ol reversed>
 <li> A. J. Barnes, N. C. Constantinou, A. H. Gibson, A. E. Kiss, C. Chapman, J. Reilly, D. Bhagtani, and <b>L. Yang</b>. regional-mom6: A Python package for automatic generation of regional configurations for the Modular Ocean Model 6. <i>Journal of Open Source Software</i>, <b>2024</b>.</li>
 <li> <b>L. Yang<sup>*</sup></b>, R. Barkan<sup>*</sup>, K. Srinivasan, J. C. McWilliams, C. J. Shakespeare, & A. H. Gibson. Oceanic eddies induce a rapid formation of an internal wave continuum. <i>Communications Earth & Environment</i>, <b>2023</b>.</li>
