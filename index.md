@@ -27,6 +27,6 @@ discrepancies in ocean tide energetics, submitted.
 
 ### Published
 
-* **L. Yang**, M. Nikurashin, A. M. Hogg, & B. M. Sloyan (2018). Energy loss from transient eddies due to lee wave generation in the Southern Ocean. Journal of Physical Oceanography, 48(12), 2867-2885.
+* **L. Yang<sup>*</sup>**, M. Nikurashin, A. M. Hogg, & B. M. Sloyan (2018). Energy loss from transient eddies due to lee wave generation in the Southern Ocean. Journal of Physical Oceanography, 48(12), 2867-2885.
 
 
