@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am a Postdoctoral Researcher at The Australian National University. 
+I am a Postdoctoral Researcher in physical oceanography at The Australian National University. 
 
 ## Education
 - **2015-2019:** Ph.D. in Quantitative Marine Science, University of Tasmania, Hobart, Australia.
