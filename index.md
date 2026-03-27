@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Postdoctoral Researcher at The Australian National University. 
 
-## Research Interests
+## Education
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **2015-2019:** Ph.D. in Quantitative Marine Science, University of Tasmania, Hobart, Australia.
+- **2011-2015:** B.Sc. in Marine Science, Ocean University of China, Qingdao, China.
 
-## News
+## Employment
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **2023-present:** Postdoctoral Research Fellow, Research School of Earth Sciences, Australian National
+University, Canberra, ACT, Australia.
+- **2020-2023:** Postdoctoral researcher, Department of Atmospheric & Oceanic Sciences, UCLA, Los
+Angeles, California, United States.
 
 {% include_relative _includes/publications.md %}
 
