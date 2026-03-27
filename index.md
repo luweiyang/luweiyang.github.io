@@ -22,10 +22,11 @@ Angeles, California, United States.
 
 ### Submitted
 
-* Pub1
+* **L. Yang**, C.J. Shakespeare, B.K. Arbic: Propagating internal-tide-induced wave stresses resolve
+discrepancies in ocean tide energetics, submitted.
 
 ### Published
 
-* Pub2
+* **L. Yang**, M. Nikurashin, A. M. Hogg, & B. M. Sloyan (2018). Energy loss from transient eddies due to lee wave generation in the Southern Ocean. Journal of Physical Oceanography, 48(12), 2867-2885.
 
 
