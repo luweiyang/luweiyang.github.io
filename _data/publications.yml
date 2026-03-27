@@ -1,22 +1,25 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Oceanic eddies induce a rapid formation of an internal wave continuum.
+    authors: <strong>Yang, L.*</strong>, Barkan, R.*, Srinivasan, K., McWilliams, J.C., Shakespeare, C.J. and Gibson, A.H.
+    journal: Communications Earth & Environment, 2023.
+    pdf: https://www.nature.com/articles/s43247-023-01137-1.pdf
+    doi: https://doi.org/10.1038/s43247-023-01137-1
+ 
+  - title: Lee waves break eddy saturation of the Antarctic Circumpolar Current.
+    authors: <strong>Yang, L.*</strong>, Nikurashin, M., Hogg, A.M. and Sloyan, B.M.
+    journal: Geophysical Research Letters, 2023.
+    pdf: https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023GL103866
+    doi: https://doi.org/10.1029/2023GL103866
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: The impact of lee waves on the Southern Ocean circulation.
+    authors: <strong>Yang, L.*</strong>, Nikurashin, M., Hogg, A.M. and Sloyan, B.M.
+    journal: Journal of Physical Oceanogrphy, 2018.
+    pdf: https://journals.ametsoc.org/downloadpdf/view/journals/phoc/51/9/JPO-D-20-0263.1.pdf
+    doi: https://doi.org/10.1175/JPO-D-20-0263.1
+
+  - title: Energy Loss from Transient Eddies due to Lee Wave Generation in the Southern Ocean.
+    authors: <strong>Yang, L.*</strong>, Nikurashin, M., Hogg, A.M. and Sloyan, B.M.
+    journal: Journal of Physical Oceanogrphy, 2018.
+    pdf: https://journals.ametsoc.org/downloadpdf/view/journals/phoc/48/12/jpo-d-18-0077.1.pdf
+    doi: https://doi.org/10.1175/JPO-D-18-0077.1
