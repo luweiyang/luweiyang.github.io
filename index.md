@@ -18,6 +18,14 @@ University, Canberra, ACT, Australia.
 - **2020-2023:** Postdoctoral researcher, Department of Atmospheric & Oceanic Sciences, UCLA, Los
 Angeles, California, United States.
 
-{% include_relative _includes/publications.md %}
+## Publications
 
-{% include_relative _includes/services.md %}
+### Submitted
+
+* Pub1
+
+### Published
+
+* Pub2
+
+
