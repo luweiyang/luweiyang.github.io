@@ -62,18 +62,26 @@
 
         <br>
         <br>
-        <div class="social-icons">
-        {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0; font-size: 1rem;" href="{{ site.google_scholar }}" target="_blank">
-          Google Scholar
-        </a>  
-        {% endif %}
+        <div class="social-links" style="text-align: center;">
+          {% if site.google_scholar %}
+            <div style="margin-bottom: 0.5rem;">
+              <a href="{{ site.google_scholar }}" target="_blank" style="font-size: 1rem; white-space: nowrap;">
+                Google Scholar
+              </a>
+            </div>
+          {% endif %}
 
-        {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0; font-size: 1rem;" href="{{ site.cv_link }}" target="_blank">
-          Curriculum Vitae
-        </a>
-        {% endif %}
+          {% if site.cv_link %}
+            <div>
+              <a href="{{ site.cv_link }}" target="_blank" style="font-size: 1rem; white-space: nowrap;">
+                Curriculum Vitae
+              </a>
+            </div>
+          {% endif %}
+        </div>
+
+        
+        <div class="social-icons">
 
         {% if site.github_link %}
         <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
