@@ -6,17 +6,16 @@ email: luwei.yang@anu.edu.au
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: luwei yang, luweiy, yang luwei, luweiyang, yangluwei
+description: Luwei Yang is a Postdoc Researcher in Physical Oceanography at the Australian National University. 
+canonical: https://earthsciences.anu.edu.au/people/dr-luwei-yang
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=ralcabcAAAAJ&hl=en
+cv_link: assets/files/CV_YANG_December_2025.pdf
+github_link: https://github.com/luweiyang
+linkedin: https://www.linkedin.com/in/luwei-yang-004024a9/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
