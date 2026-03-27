@@ -32,10 +32,10 @@ Angeles, California, United States.
 
 * **L. Yang<sup>*</sup>**, R. Barkan<sup>*</sup>, K. Srinivasan, J. C. McWilliams, C. J. Shakespeare, & A. H. Gibson. Oceanic eddies induce a rapid formation of an internal wave continuum. *Communications Earth & Environment*, **2023**.
 
-* **L. Yang**, M. Nikurashin, A. M. Hogg, & B. M. Sloyan<sup>*</sup>. Lee waves break eddy saturation of the Antarctic Circumpolar Current. *Geophysical Research Letters*, **2023**.
+* **L. Yang**, M. Nikurashin, A. M. Hogg, & B. M. Sloyan<b>text<sup>*</sup></b>. Lee waves break eddy saturation of the Antarctic Circumpolar Current. *Geophysical Research Letters*, **2023**.
 
 * R. Barkan, K. Srinivasan, **L. Yang**, J. C. McWilliams, J. Gula, & C. Vic. Oceanic mesoscale eddy depletion catalyzed by internal waves. *Geophysical Research Letters*, **2021**.
 
-* **L. Yang<sup>*</sup>**, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. The impact of lee waves on the Southern Ocean circulation. *Journal of Physical Oceanography*, **2021**.
+* **L. Yang**<sup>*</sup>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. The impact of lee waves on the Southern Ocean circulation. *Journal of Physical Oceanography*, **2021**.
 
-* **L. Yang<sup>*</sup>**, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. Energy loss from transient eddies due to lee wave generation in the Southern Ocean. *Journal of Physical Oceanography*, **2018**.
+* **L. Yang**<sup>*</sup>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. Energy loss from transient eddies due to lee wave generation in the Southern Ocean. *Journal of Physical Oceanography*, **2018**.
