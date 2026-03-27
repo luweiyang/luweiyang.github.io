@@ -3,6 +3,14 @@
 
 @import "minimal-light";
 
+/* ===== Custom font size ===== */
+
+/* Change the default font size for the main content */
+body {
+  font-size: 18px;  /* adjust to whatever you want */
+  line-height: 1.6; /* optional: improves readability */
+}
+
 /* ===== Custom overrides ===== */
 
 /* Adjust spacing for h2 headers (## in Markdown) */
