@@ -3,7 +3,11 @@ layout: homepage
 ---
 
 ## About Me
-I am a physical oceanographer and a Postdoctoral Research Fellow in the [Climate Fluid and Physics group](https://earthsciences.anu.edu.au/research/research-groups/climate-and-fluid-physics#members) at the Research School of Earth Sciences at The Australian National University. My research focuses on understanding the influence of small-scale ocean processes, such as internal waves, on large-scale ocean circulation, with a particular interest in the interactions of ocean processes across a range of spatial and temporal scales. I use a combination of geophysical fluid dynamics theory, numerical modelling, and observational data in my work.  
+I am a physical oceanographer and a Postdoctoral Research Fellow in the 
+<a href="https://earthsciences.anu.edu.au/research/research-groups/climate-and-fluid-physics" target="_blank" rel="noopener noreferrer">
+Climate Fluid and Physics group
+</a> 
+at the Research School of Earth Sciences at The Australian National University. My research focuses on understanding the influence of small-scale ocean processes, such as internal waves, on large-scale ocean circulation, with a particular interest in the interactions of ocean processes across a range of spatial and temporal scales. I use a combination of geophysical fluid dynamics theory, numerical modelling, and observational data in my work.  
 
 ## Education
 - **2015-2019:** Ph.D. in Quantitative Marine Science, University of Tasmania, Hobart, Australia.
