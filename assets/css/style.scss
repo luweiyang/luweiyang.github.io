@@ -3,6 +3,16 @@
 
 @import "minimal-light";
 
+/* Make links use the same color as headings */
+a {
+  color: #000; /* replace with the exact heading color used by your theme */
+  text-decoration: none; /* optional: removes underline */
+}
+
+a:hover {
+  text-decoration: underline; /* optional hover effect */
+}
+
 /* ===== Custom font size ===== */
 
 /* Change the default font size for the main content */
