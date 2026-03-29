@@ -65,6 +65,14 @@
         <br>
         <br>
         <div style="text-align: center;">
+          {% if site.anu_page %}
+            <div>
+              <a href="{{ site.anu_page }}" target="_blank" style="font-size: 1rem; white-space: nowrap;">
+                ANU Profile
+              </a>
+            </div>
+          {% endif %}
+          
           {% if site.google_scholar %}
             <div>
               <a href="{{ site.google_scholar }}" target="_blank" style="font-size: 1rem; white-space: nowrap;">
@@ -81,13 +89,7 @@
             </div>
           {% endif %}
 
-          {% if site.anu_page %}
-            <div>
-              <a href="{{ site.anu_page }}" target="_blank" style="font-size: 1rem; white-space: nowrap;">
-                ANU Profile
-              </a>
-            </div>
-          {% endif %}
+          
         </div>
 
         
