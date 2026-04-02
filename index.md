@@ -40,3 +40,17 @@ Angeles, California, United States.
 <li> <b>L. Yang<sup>*</sup></b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. The impact of lee waves on the Southern Ocean circulation. <i>Journal of Physical Oceanography</i>, <b>2021</b>. <a href="https://doi.org/10.1175/JPO-D-20-0263.1" target="_blank">[doi]</a> </li>
 <li> <b>L. Yang<sup>*</sup></b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. Energy loss from transient eddies due to lee wave generation in the Southern Ocean. <i>Journal of Physical Oceanography</i>, <b>2018</b>. <a href="https://doi.org/10.1175/JPO-D-18-0077.1" target="_blank">[doi]</a> </li>
 </ol>
+
+## Code, Data and Tools
+### Lee wave parameterization 
+#### MOM6 source code 
+GitHub link coming soon.
+### Southern Ocean periodic channel model
+#### MOM6 regional configuration
+GitHub link coming soon.
+### Barotropic tide model
+#### MOM6 global configuration 
+GitHub link coming soon.
+### Subpolar North Atlantic Gyre Region simulations
+#### ROMS regional configuration
+GitHub link coming soon.
