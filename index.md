@@ -8,6 +8,11 @@ I am a physical oceanographer and a Postdoctoral Research Fellow in the
 Climate Fluid and Physics group
 </a> 
 at the Research School of Earth Sciences at The Australian National University. My research focuses on understanding how small-scale ocean processes, such as internal waves, influence large-scale ocean circulation. In particular, I study how internal waves are generated, how they move through the ocean, and how they interact with their surrounding environment. The goal is to better understand how these waves help transfer energy from large-scale ocean motions down to smaller scales where mixing occurs. I use a combination of theory, numerical modelling, and observational data in my work.  
+### Research interests
+- **Internal waves and their impacts on large-scale ocean circulation**
+- **Interactions between mesoscale eddies and internal waves**
+- **Representation of wave processes in ocean models**
+- **Southern Ocean dynamics and circulation**
 
 ## Education
 - **2015-2019:** Ph.D. in Quantitative Marine Science, University of Tasmania, Hobart, Australia.
