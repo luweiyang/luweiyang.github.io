@@ -9,8 +9,21 @@ a {
   text-decoration: none; /* optional: removes underline */
 }
 
+/* Dark mode link color */
+@media (prefers-color-scheme: dark) {
+  a {
+    color: #7aa2f7; /* pick a lighter blue for dark background */
+  }
+}
+
 a:hover {
   text-decoration: underline; /* optional hover effect */
+}
+
+@media (prefers-color-scheme: dark) {
+  a:hover {
+    color: #aac8ff;
+  }
 }
 
 /* ===== Custom font size ===== */
