@@ -45,5 +45,6 @@ Angeles, California, United States.
 - **Lee wave drag and mixing parameterization** (MOM6 source code): GitHub link coming soon.
 - **Internal tide wave drag parameterization** (MOM6 source code): GitHub link coming soon.
 - **Southern Ocean periodic channel model** (MOM6 regional configuration): GitHub link coming soon. 
-- **Barotropic tide model** (MOM6 global configuration) : GitHub link coming soon. 
+- **Barotropic tide model** (MOM6 global configuration) : GitHub link coming soon.
+- **Barotropic tide model (in frequency space, with out-of-phase wave stresses)** (Matlab): GitHub link coming soon. 
 - **Subpolar North Atlantic Gyre Region simulations** (ROMS regional configuration): GitHub link coming soon. 
