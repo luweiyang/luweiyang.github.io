@@ -27,7 +27,7 @@ Angeles, California, United States.
 ## Publications
 ### Submitted
 <ol reversed start="8">
-<li> <b>L. Yang<sup>*</sup></b>, C.J. Shakespeare, B.K. Arbic: Propagating internal-tide-induced wave stresses resolve discrepancies in ocean surface tide energetics. Submitted.</li>
+<li> <b>L. Yang<sup>*</sup></b>, C.J. Shakespeare, B.K. Arbic: Propagating internal-tide-induced wave stresses resolve discrepancies in ocean surface tide energetics. <i>Geophysical Research Letters</i>, under review.</li>
 <li> <b>L. Yang<sup>*</sup></b>, C. J. Shakespeare, A. K. Morrison, A. M. Hogg, A. H. Gibson, and B. K. Arbic. Improving M2 barotropic tide solutions: sensitivity to model resolution and nonlinear wave dynamics. <i>Journal of Advances in Modeling Earth Systems</i>, under review.  <a href="https://essopenarchive.org/doi/full/10.22541/essoar.176005616.66140750/v1" target="_blank">[preprint]</a> </li>
 </ol>
 
