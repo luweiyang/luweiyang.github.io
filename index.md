@@ -11,7 +11,7 @@ at the Research School of Earth Sciences at The Australian National University. 
 ### Research interests
 - **Internal waves and their impacts on large-scale ocean circulation**
 - **Interactions between mesoscale eddies and internal waves**
-- **Representation of wave processes in ocean models**
+- **Representation of wave effects in ocean models**
 - **Southern Ocean dynamics and circulation**
 
 ## Education
