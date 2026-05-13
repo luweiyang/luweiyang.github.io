@@ -28,11 +28,11 @@ Angeles, California, United States.
 ### Submitted
 <ol reversed start="8">
 <li> <b>L. Yang<sup>*</sup></b>, C.J. Shakespeare, B.K. Arbic: Propagating internal-tide-induced wave stresses resolve discrepancies in ocean surface tide energetics. <i>Geophysical Research Letters</i>, under review. <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15002165/v1" target="_blank">[preprint]</a> </li>
-<li> <b>L. Yang<sup>*</sup></b>, C. J. Shakespeare, A. K. Morrison, A. M. Hogg, A. H. Gibson, and B. K. Arbic. Sensitivity of M<sub>2</sub> barotropic tide solutions to resolution and a physically based wave drag parameterization. <i>Journal of Advances in Modeling Earth Systems</i>, accepted.  <a href="https://essopenarchive.org/doi/full/10.22541/essoar.176005616.66140750/v1" target="_blank">[preprint]</a> </li>
 </ol>
 
 ### Published
 <ol reversed>
+<li> <b>L. Yang<sup>*</sup></b>, C. J. Shakespeare, A. K. Morrison, A. M. Hogg, A. H. Gibson, and B. K. Arbic. Sensitivity of M<sub>2</sub> barotropic tide solutions to resolution and a physically based wave drag parameterization. <i>Journal of Advances in Modeling Earth Systems</i>, <b>2026</b>.  <a href="https://doi.org/10.1029/2025MS005528" target="_blank">[doi]</a> </li>
 <li> A. J. Barnes, N. C. Constantinou, A. H. Gibson, A. E. Kiss, C. Chapman, J. Reilly, D. Bhagtani, and <b>L. Yang</b>. regional-mom6: A Python package for automatic generation of regional configurations for the Modular Ocean Model 6. <i>Journal of Open Source Software</i>, <b>2024</b>. <a href="https://doi.org/10.21105/joss.06857" target="_blank">[doi]</a> </li>
 <li> <b>L. Yang<sup>*</sup></b>, R. Barkan<sup>*</sup>, K. Srinivasan, J. C. McWilliams, C. J. Shakespeare, & A. H. Gibson. Oceanic eddies induce a rapid formation of an internal wave continuum. <i>Communications Earth & Environment</i>, <b>2023</b>. <a href="https://doi.org/10.1038/s43247-023-01137-1" target="_blank">[doi]</a> </li>
 <li> <b>L. Yang</b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan<sup>*</sup>. Lee waves break eddy saturation of the Antarctic Circumpolar Current. <i>Geophysical Research Letters</i>, <b>2023</b>. <a href="https://doi.org/10.1029/2023GL103866" target="_blank">[doi]</a> </li>
