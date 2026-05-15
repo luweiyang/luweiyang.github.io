@@ -41,6 +41,7 @@ Angeles, California, United States.
 <li> <b>L. Yang<sup>*</sup></b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. Energy loss from transient eddies due to lee wave generation in the Southern Ocean. <i>Journal of Physical Oceanography</i>, <b>2018</b>. <a href="https://doi.org/10.1175/JPO-D-18-0077.1" target="_blank">[doi]</a> </li>
 </ol>
 
+<!--
 ## Code, Data, and Tools
 - **Lee wave drag and mixing parameterization** (MOM6 source code): GitHub link coming soon.
 - **Internal tide wave drag parameterization** (MOM6 source code): GitHub link coming soon.
@@ -48,3 +49,4 @@ Angeles, California, United States.
 - **Barotropic tide model** (MOM6 global configuration) : GitHub link coming soon.
 - **Barotropic tide model (in frequency space, with out-of-phase wave stresses)** (Matlab): GitHub link coming soon. 
 - **Subpolar North Atlantic Gyre Region simulations** (ROMS regional configuration): GitHub link coming soon. 
+-->
