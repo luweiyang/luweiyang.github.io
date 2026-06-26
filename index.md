@@ -27,7 +27,7 @@ Angeles, California, United States.
 ## Publications
 ### Submitted
 <ol reversed start="8">
-<li> <b>L. Yang<sup>*</sup></b>, C.J. Shakespeare, B.K. Arbic: Propagating internal-tide-induced wave stresses resolve discrepancies in ocean surface tide energetics. <i>Geophysical Research Letters</i>, under review. <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15002165/v1" target="_blank">[preprint]</a> </li>
+<li> <b>L. Yang<sup>*</sup></b>, C.J. Shakespeare, B.K. Arbic: Propagating internal-tide-induced wave stresses resolve discrepancies in ocean surface tide energetics. <i>Geophysical Research Letters</i>, accepted. <a href="https://essopenarchive.org/doi/full/10.22541/essoar.15002165/v1" target="_blank">[preprint]</a> </li>
 </ol>
 
 ### Published
