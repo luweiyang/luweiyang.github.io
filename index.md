@@ -19,7 +19,8 @@ at the Research School of Earth Sciences at The Australian National University. 
 - **2011-2015:** B.Sc. in Marine Science, Ocean University of China, Qingdao, China.
 
 ## Employment
-- **2023-present:** Postdoctoral Research Fellow, Research School of Earth Sciences, Australian National
+- **2026-present:** Postdoctoral Research Fellow, Department of Ocean Science, Hong Kong University of Science and Technology, Hong Kong, China.
+- **2023-2026:** Postdoctoral Research Fellow, Research School of Earth Sciences, Australian National
 University, Canberra, ACT, Australia.
 - **2020-2023:** Postdoctoral researcher, Department of Atmospheric & Oceanic Sciences, UCLA, Los
 Angeles, California, United States.
@@ -32,7 +33,7 @@ Angeles, California, United States.
 </ol>
 -->
 
-### Published
+### Peer-reviewed journal articles
 <ol reversed>
 <li> <b>L. Yang<sup>*</sup></b>, Shakespeare, C.J., and B.K. Arbic. Propagating internal-tide-induced wave stresses resolve discrepancies in ocean surface tide energetics. <i>Geophysical Research Letters</i>, <b>2026</b>. <a href="https://doi.org/10.1029/2026GL123598" target="_blank">[doi]</a> </li>
 <li> <b>L. Yang<sup>*</sup></b>, C. J. Shakespeare, A. K. Morrison, A. M. Hogg, A. H. Gibson, and B. K. Arbic. Sensitivity of M<sub>2</sub> barotropic tide solutions to resolution and a physically based wave drag parameterization. <i>Journal of Advances in Modeling Earth Systems</i>, <b>2026</b>.  <a href="https://doi.org/10.1029/2025MS005528" target="_blank">[doi]</a> </li>
@@ -42,6 +43,11 @@ Angeles, California, United States.
 <li> R. Barkan, K. Srinivasan, <b>L. Yang</b>, J. C. McWilliams, J. Gula, & C. Vic. Oceanic mesoscale eddy depletion catalyzed by internal waves. <i>Geophysical Research Letters</i>, <b>2021</b>. <a href="https://doi.org/10.1029/2021GL094376" target="_blank">[doi]</a> </li>
 <li> <b>L. Yang<sup>*</sup></b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. The impact of lee waves on the Southern Ocean circulation. <i>Journal of Physical Oceanography</i>, <b>2021</b>. <a href="https://doi.org/10.1175/JPO-D-20-0263.1" target="_blank">[doi]</a> </li>
 <li> <b>L. Yang<sup>*</sup></b>, M. Nikurashin, A. M. Hogg, & B. M. Sloyan. Energy loss from transient eddies due to lee wave generation in the Southern Ocean. <i>Journal of Physical Oceanography</i>, <b>2018</b>. <a href="https://doi.org/10.1175/JPO-D-18-0077.1" target="_blank">[doi]</a> </li>
+</ol>
+
+### Other publications
+<ol reversed>
+ <li> <b>L. Yang<sup>*</sup></b>, C. J. Shakespeare. Earth’s tides are shaped by more than the Moon. And they’re changing as the planet warms. <i>The Conversation</i>, <b>2026</b>. <a href="https://doi.org/10.64628/AA.9gu6v4jtm" target="_blank">[doi]</a> </li>
 </ol>
 
 <!--
