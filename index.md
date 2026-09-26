@@ -20,6 +20,8 @@ at the Research School of Earth Sciences at The Australian National University. 
 
 ## Employment
 - **2026-present:** Postdoctoral Research Fellow, Department of Ocean Science, Hong Kong University of Science and Technology, Hong Kong, China.
+- **2026-present:** Visiting and Honorary Appointee, Research School of Earth Sciences, Australian National
+University, Canberra, ACT, Australia.
 - **2023-2026:** Postdoctoral Research Fellow, Research School of Earth Sciences, Australian National
 University, Canberra, ACT, Australia.
 - **2020-2023:** Postdoctoral researcher, Department of Atmospheric & Oceanic Sciences, UCLA, Los
