@@ -3,11 +3,11 @@ layout: homepage
 ---
 
 ## About Me
-I am a physical oceanographer and a Postdoctoral Research Fellow in the 
-<a href="https://earthsciences.anu.edu.au/research/research-groups/climate-and-fluid-physics" target="_blank" rel="noopener noreferrer">
-Climate Fluid and Physics group
+I am a Postdoctoral Research Fellow in the 
+<a href="https://jmak-omfg.github.io/" target="_blank" rel="noopener noreferrer">
+Ocean Modelling and Fluids Group
 </a> 
-at the Research School of Earth Sciences at The Australian National University. My research focuses on understanding how small-scale ocean processes, such as internal waves, influence large-scale ocean circulation. In particular, I study how internal waves are generated, how they move through the ocean, and how they interact with their surrounding environment. The goal is to better understand how these waves help transfer energy from large-scale ocean motions down to smaller scales where mixing occurs. I use a combination of theory, numerical modelling, and observational data in my work.  
+at the Department of Ocean Science at The Hong Kong University of Science and Technology. My research focuses on understanding how small-scale ocean processes, such as internal waves, influence large-scale ocean circulation. In particular, I study how internal waves are generated, how they move through the ocean, and how they interact with their surrounding environment. The goal is to better understand how these waves help transfer energy from large-scale ocean motions down to smaller scales where mixing occurs. I use a combination of theory, numerical modelling, and observational data in my work.  
 ### Research interests
 - **Internal waves and their impacts on large-scale ocean circulation**
 - **Interactions between mesoscale eddies and internal waves**
